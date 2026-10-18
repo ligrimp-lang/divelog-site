@@ -1,0 +1,25 @@
+{
+ "format": 1,
+ "version": 1,
+ "published": "2026-10-18T05:03:38Z",
+ "licence": "ODbL-1.0",
+ "sites": [
+  {
+   "id": "dl:83ff7578df82",
+   "name": "Bannerfish Bay",
+   "lat": 28.49853,
+   "lon": 34.5183,
+   "kind": "site",
+   "country": "EG"
+  },
+  {
+   "id": "dl:ddb03215a2d5",
+   "name": "Mashraba",
+   "lat": 28.49376,
+   "lon": 34.51804,
+   "kind": "site",
+   "country": "EG"
+  }
+ ],
+ "hidden": []
+}
