@@ -3,9 +3,9 @@
 The landing, privacy and support pages for **Dive log**, the Shearwater dive log for iPhone.
 Served by GitHub Pages from `main` / root, the same arrangement as the planners' sites.
 
-- <https://ligrimp-lang.github.io/divelog-site/>
-- <https://ligrimp-lang.github.io/divelog-site/privacy.html>
-- <https://ligrimp-lang.github.io/divelog-site/support.html>
+- <https://diver.today/divelog-site/>
+- <https://diver.today/divelog-site/privacy.html>
+- <https://diver.today/divelog-site/support.html>
 
 App Store Connect links the privacy and support pages; Apple rejects a submission whose
 privacy-policy URL is dead.

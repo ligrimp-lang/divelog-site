@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ligrimp-lang.github.io/divelog-site/sitemap.xml
+Sitemap: https://diver.today/divelog-site/sitemap.xml
