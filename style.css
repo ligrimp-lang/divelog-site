@@ -128,3 +128,14 @@ h3 {
   font-weight: 600;
   margin: 2.25rem 0 0.6rem;
 }
+
+/* A still of one screen. */
+.shot {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 1.5rem 0 0;
+  border: 1px solid var(--rule);
+  border-radius: 22px;
+}
