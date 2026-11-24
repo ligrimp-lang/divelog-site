@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 5,
- "published": "2026-11-11T17:07:14Z",
+ "version": 6,
+ "published": "2026-11-24T19:47:06Z",
  "licence": "ODbL-1.0",
  "sites": [
   {
@@ -10949,7 +10949,8 @@
     "El Shugarat",
     "El Shugurat",
     "Shogayrat",
-    "Little Trees"
+    "Little Trees",
+    "El-Shogharat"
    ]
   },
   {
@@ -11174,6 +11175,14 @@
    "lon": -81.07783,
    "kind": "site",
    "country": "KY"
+  },
+  {
+   "id": "dl:c43b07bf592b",
+   "name": "Sol",
+   "lat": 21.73301,
+   "lon": 39.06836,
+   "kind": "site",
+   "country": "SA"
   },
   {
    "id": "dl:c34d27fc1507",
